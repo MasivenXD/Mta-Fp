@@ -1,0 +1,2 @@
+# Mta-Fp
+Hello, how are you? You can see it around, you can find it everywhere, but I said let's put it here. You can play this scenario from a first person perspective. For Installation; -Download the file. -Extract the file to the folder. -And after extracting the file, throw it to Server - Mods - Deathmatch - resources. -Enter the game, enter your server and press F7 and type refresh. -Launch it from admin panel, good games.
